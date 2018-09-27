@@ -11,4 +11,5 @@
 # 博客
 - [阐奥歌章的博客](http://blog.sina.com.cn/s/articlelist_1415062661_0_1.html)
 - [李玄易命理风水的博客-命例收集](http://blog.sina.com.cn/s/articlelist_1792172675_7_1.html)
+- [壬水清的博客](http://blog.sina.com.cn/s/articlelist_1634164767_0_7.html)
 
